@@ -1,0 +1,22 @@
+body {
+  background-image: url("../images/background.jpeg");
+}
+.left-content {
+  text-align: center;
+}
+.portfolio > h3 {
+  text-align: center;
+  color: beige;
+}
+.portfolio-link {
+  float: right;
+}
+.resume,
+.portfolio-link {
+  background-color: #122f65;
+}
+.card > .card-image > .title {
+  color: #122f65;
+  font-size: 20px;
+  text-align: center;
+}
